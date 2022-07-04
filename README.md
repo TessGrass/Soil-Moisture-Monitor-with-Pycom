@@ -1,5 +1,5 @@
 # Soil-Moisture-Monitor-with-Pycom
-A simple moisture meter for indoor plants built with Pycom Lopy4 and Pycom expansion board 3.1. The data is sent via WiFi to Adafruit.io where it is presented visually.
+A simple moisture meter for indoor plants built with Pycom LoPy4 and Pycom expansion board 3.1. The data is sent via WiFi to Adafruit.io where it is presented visually.
 
 ## Components being used
 1. Pycom Lopy4 [Pycom LoPy4](https://pycom.io/product/lopy4/)
